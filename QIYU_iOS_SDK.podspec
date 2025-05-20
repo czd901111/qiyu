@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.summary  = '网易七鱼客服访客端 iOS SDK'
     s.homepage = 'http://www.qiyukf.com'
     s.author   = { 'qiyukf' => 'yunshangfu@126.com' }
-    s.source   = { :git => 'https://github.com/qiyukf/QIYU_iOS_SDK.git', :tag => "5.7.6" }
+    s.source   = { :git => 'https://github.com/czd901111/qiyu.git', :tag => "5.7.6" }
     s.platform = :ios
     s.public_header_files = '**/ExportHeaders/**/*.h'
     s.source_files = "**/ExportHeaders/**/*.h"
